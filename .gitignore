@@ -1,0 +1,9 @@
+
+compile_flags.txt
+*.d
+*.o
+Matrices.txt
+Matrices.project
+Matrices.mk
+Debug/Matrices.exe
+main.cpp
